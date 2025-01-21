@@ -41,9 +41,9 @@ android {
 
 dependencies {
 
-    implementation ("org.jetbrains.kotlin:kotlin-stdlib:1.9.10")
+    implementation ("org.jetbrains.kotlin:kotlin-stdlib:2.0.0")
     implementation ("androidx.lifecycle:lifecycle-extensions:2.2.0")
-    implementation ("org.jetbrains.kotlin:kotlin-reflect:1.9.10")
+    implementation ("org.jetbrains.kotlin:kotlin-reflect:1.9.23")
 
 
     implementation("androidx.core:core-ktx:1.12.0")
